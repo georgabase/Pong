@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 3f59851b09d914e889e760494300c41c
+timeCreated: 1490903223
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - particle: {fileID: 198030400979315078, guid: 1d88fb082c1f8455284f9227536b08c6,
+      type: 2}
+  - hitParticle: {fileID: 198239412282594222, guid: 5c486c8a2b98c4e0b9ea9a61ba6052b6,
+      type: 2}
+  - ballPrefab: {fileID: 1520325310711636, guid: 9986c3df357af494c8dd5742a03f2e91,
+      type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
